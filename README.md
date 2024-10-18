@@ -1,4 +1,4 @@
 ## Hello! This is KongHou
-### ✨ A frontend lover✨ 
+### ✨ A frontend lover from China✨ 
 
 
